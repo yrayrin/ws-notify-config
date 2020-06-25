@@ -1,5 +1,5 @@
 datasource:
   db:
     username: root
-    password: '{cipher}a7f5fbffcd361055c42d88cf4ca20ede3d04542235dcc0ffaee4daeecbc751a3'
+    password: '{cipher}16c24a9b8cf3af763b129bbd1071c08b7e4a7a676ee953b6503ff2c776e21369'
     name: yoke
