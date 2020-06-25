@@ -1,12 +1,8 @@
-spring:
-  data:
-    mongodb:
-      host: 127.0.0.1
-      port: 27017
-      authentication-database: admin
-      username: root
-      password: {cipher}a7f5fbffcd361055c42d88cf4ca20ede3d04542235dcc0ffaee4daeecbc751a3
-      database: yoke
+datasource:
+  db:
+    username: root
+    password: '{cipher}a7f5fbffcd361055c42d88cf4ca20ede3d04542235dcc0ffaee4daeecbc751a3'
+    name: yoke
 
 server:
   port: 8082
